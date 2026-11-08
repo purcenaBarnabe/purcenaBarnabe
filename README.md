@@ -1,10 +1,10 @@
 [![GitHub Banner](./assets/images/banner_voyage.png)](https://github.com/purcenaBarnabe)
 
-Full-Stack Software Engineer with 7+ years designing, building, and operating end-to-end platforms. Currently working on healthcare and pharmacy fulfillment systems for a US company. I like to navigate from the front end (React, Next.js) to the back end (Node.js/TypeScript, GraphQL, Ruby on Rails), focusing on architecture, performance, and reliability. Hands-on with SQL (PostgreSQL/MySQL) and MongoDB, messaging (Kafka, SQS, RabbitMQ), and cloud (GCP/AWS, Kubernetes). I care about API design, observability, testing (specially E2E) and CI/CD. 
+Computer Scientist and Senior Software Engineer with 7+ years designing, building, and operating end-to-end platforms. Currently working on healthcare and pharmacy fulfillment systems for a US company. I like to navigate between front end and back end, focusing on architecture, performance, and reliability. Hands-on with SQL (PostgreSQL/MySQL) and MongoDB, messaging (Kafka, SQS, RabbitMQ), and cloud (GCP/AWS, Kubernetes). I care about API design, observability, testing (specially E2E) and CI/CD. 
 
 Core stack: TypeScript/JavaScript, React, Next.js, Node.js, Express, GraphQL/Apollo, Ruby on Rails, PostgreSQL, MongoDB, MySQL, Kafka, RabbitMQ, SQS, GCP (GKE), AWS (S3), Kubernetes, Docker, Terraform, Helm, OpenTelemetry, Prometheus, OpenAPI, Git, Agile (Scrum/Kanban).
 
-Also worked with: Angular (2+/AngularJS), Kotlin, Java/Spring Boot, Python, TypeORM, Sass/FlexLayout/Bootstrap, CSS3, HTML5.
+Also worked with: Angular (2+/AngularJS), Kotlin, Java/Spring Boot, Python, TypeORM, Sass/FlexLayout/Bootstrap
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopurcena/)
